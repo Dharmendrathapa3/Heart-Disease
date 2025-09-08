@@ -33,7 +33,7 @@ pip install matplotlib
 ```
 # Methodology
 
-![Heart Disease Predction System](./img/Heart Disease.gif)
+![Heart Disease Predction System](./img/Heart%20Disease.gif)
 
 # Implementation
 Following library are used for traing, testing and evaluating the overal projects:
